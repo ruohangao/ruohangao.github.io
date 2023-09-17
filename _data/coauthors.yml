@@ -169,14 +169,14 @@
     url: https://dou-yiming.github.io/
 
 "Wang":
-  - firstname: ["Mason", "M."]
-    url: https://www.linkedin.com/in/mason-wang-3b5288104/
-
   - firstname: ["Jui-Hsien", "J.-H.", "J."]
     url: http://juiwang.com/
 
   - firstname: ["Shaoxiong", "S."]
     url: http://shaoxiongwang.com/
+
+  - firstname: ["Chen", "C."]
+    url: https://www.chenwangjeremy.net/
 
 "Heravi":
   - firstname: ["Negin", "N."]
@@ -189,3 +189,15 @@
 "Lau":
   - firstname: ["Wing Cheong", "W.", "W. C.", "Wing C."]
     url: https://staff.ie.cuhk.edu.hk/~wclau/
+
+"Zhang":
+  - firstname: ["Ruohan", "R."]
+    url: https://ai.stanford.edu/~zharu/
+
+"Hwang":
+  - firstname: ["Minjune", "M."]
+    url: https://mj-hwang.github.io/
+
+"Norcia":
+  - firstname: ["Anthony", "A."]
+    url: https://profiles.stanford.edu/anthony-norcia/

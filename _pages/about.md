@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Meta Reality Lab <br /> Email: rhgao[AT]cs.stanford.edu (primary) | rhgao[AT]meta.com
