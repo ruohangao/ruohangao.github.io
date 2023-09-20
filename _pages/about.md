@@ -14,7 +14,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am currently a Research Scientist at Meta Reality Lab. I received my Ph.D. in 2021 from the [CS Department](https://www.cs.utexas.edu/) at [The University of Texas at Austin](http://www.utexas.edu/) advised by [Kristen Grauman](http://www.cs.utexas.edu/~grauman), and then spent two years as a PostDoc at [Stanford Vision and Learning Lab](https://svl.stanford.edu/) working with [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li), [Jiajun Wu](https://jiajunwu.com/), and [Silvio Savarese](https://profiles.stanford.edu/silvio-savarese).
