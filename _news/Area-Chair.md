@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am serving as an Area Chair for ICCV 2023.
+I serve as an Area Chair for ICCV 2023, and a SPC for AAAI 2023, 2024.

@@ -187,9 +187,12 @@ blockquote {
 
 .navbar {
   box-shadow: 1;
-  border-bottom: 1px solid var(--global-divider-color);
-  background-color: $grey-color-light;
+  border-bottom: 0 solid var(--global-divider-color);
+  background-color: rgb(215, 0, 39);
   opacity: 0.95;
+  padding-top: 3px;
+  padding-bottom: 3px;
+
 }
 
 .navbar .dropdown-menu {
@@ -240,7 +243,7 @@ blockquote {
   .navbar-nav .nav-item.active>.nav-link {
     background-color: inherit;
     font-weight: bolder;
-    color: var(--global-theme-color);
+    color: var(--global-bg-color);
 
     &:hover {
       color: var(--global-hover-color);
@@ -250,7 +253,7 @@ blockquote {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.9rem;
+    font-size: 1.8rem;
 
     a {
       i::before {
