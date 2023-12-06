@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Ruohan Gao # the website title (if blank, full name will be used instead)
 first_name: Ruohan
 middle_name:
 last_name: Gao
@@ -13,7 +13,7 @@ footer_text: #
 keywords: Ruohan Gao, Homepage  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: umd.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ruohangao.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -251,7 +251,7 @@ badges: # Display different badges for your publications
   dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, data, demo, video, highlight, poster, slides, website, preview, altmetric]
+filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, data, demo, video, highlight, media, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit:  # leave blank to always show all authors
