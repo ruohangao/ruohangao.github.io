@@ -10,7 +10,7 @@ email: rhgao@cs.stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage for Ruohan Gao
 footer_text: #
-keywords: Ruohan Gao, Homepage  # add your own keywords or leave empty
+keywords: Ruohan Gao, Homepage, Computer Vision, Machine Learning, Artificial Intelligence, AI  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: umd.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
