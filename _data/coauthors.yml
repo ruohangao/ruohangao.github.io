@@ -10,6 +10,9 @@
   - firstname: ["Jiajun", "J."]
     url: https://jiajunwu.com/
 
+  - firstname: ["Shangzhe", "S."]
+    url: https://elliottwu.com/
+
 "Savarese":
   - firstname: ["Silvio", "S."]
     url: https://profiles.stanford.edu/silvio-savarese
@@ -178,6 +181,9 @@
   - firstname: ["Chen", "C."]
     url: https://www.chenwangjeremy.net/
 
+  - firstname: ["Mason", "M.", "Mason L."]
+    url: https://masonlwang.com/
+
 "Heravi":
   - firstname: ["Negin", "N."]
     url: https://scholar.google.com/citations?user=dFdEHskAAAAJ&hl=en
@@ -202,7 +208,30 @@
   - firstname: ["Anthony", "A."]
     url: https://profiles.stanford.edu/anthony-norcia/
 
-
 "Hiranaka":
   - firstname: ["Ayano", "A."]
     url: https://misoshiruseijin.github.io/
+
+"Jia":
+  - firstname: ["Wenqi", "W."]
+    url: https://vjwq.github.io/
+
+"Liu":
+  - firstname: ["Miao", "M."]
+    url: https://aptx4869lm.github.io/
+
+"Jiang":
+  - firstname: ["Hao", "H."]
+    url: https://www.hao-jiang.net/
+
+"Ananthabhotla":
+  - firstname: ["Ishwarya", "I."]
+    url: https://www.ishwarya.me/
+
+"Rehg":
+  - firstname: ["James", "J.", "James M.", "J. M.", "James M"]
+    url: https://rehg.org/
+
+"Ithapu":
+  - firstname: ["Vamsi", "Vamsi Krishna", "V. K.", "Vamsi K"]
+    url: https://www.vamsiithapu.com/
