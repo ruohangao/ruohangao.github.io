@@ -7,7 +7,7 @@ subtitle: |+
   <a href="https://about.meta.com/realitylabs/">Meta Reality Labs</a> <br><br>
   Incoming <b>Assistant Professor</b> <br>
   <a href="https://www.cs.umd.edu/">Department of Computer Science</a>, <a href="https://umd.edu/">University of Maryland, College Park</a> <br><br>
-  Email: rhgao[AT]umd.edu (primary) | rhgao[AT]meta.com
+  Email: rhgao[AT]umd.edu
 
 profile:
   align: left
