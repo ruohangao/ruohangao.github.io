@@ -25,4 +25,4 @@ I am currently a Research Scientist at Meta Reality Labs. Previously, I received
 
 My research primarily focuses on computer vision and machine learning, with a particular emphasis on multisensory learning involving sight, sound, and touch. The overarching goal of my research is to enpower machines to emulate and enhance human capabilities in seeing, hearing, and feeling, ultimately enabling them to comprehensively perceive, understand, and engage with the intricacies of the multisensory world.
 
-***<span style="color:red">Prospective Students:</span>*** I am actively seeking self-motivated Ph.D. students to join my group starting Fall 2024. If you are interested in working with me, please apply [here](https://www.cs.umd.edu/grad/catalog) and mention my name in your application.
+***<span style="color:red">Prospective Students:</span>*** I am always seeking self-motivated students to join my UMD Multisensory Machine Intelligence Group. If you are interested, <a href="./prospective_students">here is some more information</a>.
