@@ -1,0 +1,279 @@
+"Grauman":
+  - firstname: ["Kristen", "K.", "K. L."]
+    url: https://www.cs.utexas.edu/~grauman/
+
+"Fei-Fei":
+  - firstname: ["Li", "L."]
+    url: https://profiles.stanford.edu/fei-fei-li
+
+"Wu":
+  - firstname: ["Jiajun", "J."]
+    url: https://jiajunwu.com/
+
+  - firstname: ["Shangzhe", "S."]
+    url: https://elliottwu.com/
+
+"Savarese":
+  - firstname: ["Silvio", "S."]
+    url: https://profiles.stanford.edu/silvio-savarese
+
+"James":
+  - firstname: ["Doug", "D.", "Doug L.", "D. L."]
+    url: http://graphics.stanford.edu/~djames/
+
+"Bohg":
+  - firstname: ["Jeannette", "J."]
+    url: http://web.stanford.edu/~bohg/
+
+"Torresani":
+  - firstname: ["Lorenzo", "L."]
+    url: https://ltorresa.github.io/home.html
+
+"Chen":
+  - firstname: ["Changan", "C."]
+    url: https://changan.io/
+
+  - firstname: ["Jun", "J."]
+    url: https://junchen14.github.io/
+
+"Al-Halah":
+  - firstname: ["Ziad", "Z."]
+    url: https://users.cs.utah.edu/~ziad/
+
+"Chang":
+  - firstname: ["Yen-Yu", "Y.", "Y.-Y.", "Y. Y."]
+    url: https://yuyuchang.github.io/
+
+"Feris":
+  - firstname: ["Rogerio", "R.", "R. S."]
+    url: https://www.rogerioferis.org/
+
+"Jayaraman":
+  - firstname: ["Dinesh", "D."]
+    url: https://www.seas.upenn.edu/~dineshj/
+
+"Oh":
+  - firstname: ["Tae-Hyun", "T.", "T.-H.", "T. H."]
+    url: https://ami.postech.ac.kr/members/tae-hyun-oh
+
+"Ramakrishnan":
+  - firstname: ["Santhosh", "Santhosh Kumar", "Santhosh K.", "S.", "S. K."]
+    url: https://srama2512.github.io/
+
+"Xiong":
+  - firstname: ["Bo", "B."]
+    url: https://scholar.google.com/citations?user=ZFW98t4AAAAJ&hl=en
+
+"Clarke":
+  - firstname: ["Samuel", "S."]
+    url: https://samuelpclarke.com/
+
+"Si":
+  - firstname: ["Zilin", "Z."]
+    url: https://si-lynnn.github.io/
+
+"Yuan":
+  - firstname: ["Wenzhen", "W."]
+    url: http://robotouch.ri.cmu.edu/yuanwz/
+
+"Adelson":
+  - firstname: ["Edward", "Edward H.", "E. H.", "E."]
+    url: http://persci.mit.edu/people/adelson
+
+"Cleac'h":
+  - firstname: ["Simon", "S.", "Simon L.", "Simon Le", "S. L."]
+    url: https://simon-lc.github.io/
+
+"Schwager":
+  - firstname: ["Mac", "M."]
+    url: http://web.stanford.edu/~schwager/
+
+"Li":
+  - firstname: ["Hao", "H."]
+    url: https://haolirobo.github.io/
+
+  - firstname: ["Yunzhu", "Y."]
+    url: https://yunzhuli.github.io/
+
+  - firstname: ["Sheng", "S."]
+    url: https://www.graphics.pku.edu.cn/xztd/jgfaculty/lisheng/index.htm
+
+"Calamia":
+  - firstname: ["Paul", "P."]
+    url: https://scholar.google.com/citations?hl=en&user=S_S6SZAAAAAJ
+
+"Yu":
+  - firstname: ["Hong-Xing", "H.", "H.-X.", "H. X."]
+    url: https://kovenyu.com/
+
+"Guo":
+  - firstname: ["Michelle", "M."]
+    url: https://shellguo.com/
+
+"Calamia":
+  - firstname: ["Paul", "P."]
+    url: https://scholar.google.com/citations?hl=en&user=S_S6SZAAAAAJ
+
+"Yu":
+  - firstname: ["Hong-Xing", "H.", "H.-X.", "H. X."]
+    url: https://kovenyu.com/
+
+"Guo":
+  - firstname: ["Michelle", "M."]
+    url: https://shellguo.com/
+
+"Lee":
+  - firstname: ["Michelle", "Michelle A.", "M.", "M. A."]
+    url: https://scholar.google.com/citations?hl=en&user=2Dmb3XYAAAAJ
+
+"Xu":
+  - firstname: ["Huazhe", "H."]
+    url: http://hxu.rocks/
+
+  - firstname: ["Huanle"]
+    url: https://www.fst.um.edu.mo/personal/huanlexu/
+
+"Rau":
+  - firstname: ["Mark", "M."]
+    url: https://ccrma.stanford.edu/~mrau/
+
+"Garg":
+  - firstname: ["Rishabh", "R."]
+    url: https://bigharshrag.github.io/
+
+"Howell":
+  - firstname: ["Taylor", "T.", "Taylor A.", "T. A."]
+    url: https://thowell.github.io/
+
+"Manchester":
+  - firstname: ["Zachary", "Z."]
+    url: https://www.ri.cmu.edu/ri-faculty/zachary-manchester/
+
+"Schissler":
+  - firstname: ["Carl", "C."]
+    url: https://scholar.google.com/citations?user=YcL_y8AAAAAJ&hl=en
+
+"Majumder":
+  - firstname: ["Sagnik", "S."]
+    url: https://sagnikmjr.github.io/
+
+"Chan":
+  - firstname: ["Eric", "Eric Ryan", "E.", "E. R.", "Eric R."]
+    url: https://ericryanchan.github.io/index.html
+
+"Fathi":
+  - firstname: ["Alireza", "A."]
+    url: https://www.alirezafathi.org/
+
+"Funkhouser":
+  - firstname: ["Thomas", "T."]
+    url: https://www.cs.princeton.edu/~funk/
+
+"Agarwal":
+  - firstname: ["Tanmay", "T."]
+    url: https://tanmay-agarwal.com/
+
+"Dou":
+  - firstname: ["Yiming", "Y."]
+    url: https://dou-yiming.github.io/
+
+"Wang":
+  - firstname: ["Jui-Hsien", "J.-H.", "J."]
+    url: http://juiwang.com/
+
+  - firstname: ["Shaoxiong", "S."]
+    url: http://shaoxiongwang.com/
+
+  - firstname: ["Chen", "C."]
+    url: https://www.chenwangjeremy.net/
+
+  - firstname: ["Mason", "M.", "Mason L."]
+    url: https://masonlwang.com/
+
+"Heravi":
+  - firstname: ["Negin", "N."]
+    url: https://scholar.google.com/citations?user=dFdEHskAAAAJ&hl=en
+
+"Hu":
+  - firstname: ["Pili", "P."]
+    url: https://hupili.net/
+
+"Lau":
+  - firstname: ["Wing Cheong", "W.", "W. C.", "Wing C."]
+    url: https://staff.ie.cuhk.edu.hk/~wclau/
+
+"Zhang":
+  - firstname: ["Ruohan", "R."]
+    url: https://ai.stanford.edu/~zharu/
+
+"Hwang":
+  - firstname: ["Minjune", "M."]
+    url: https://mj-hwang.github.io/
+
+"Norcia":
+  - firstname: ["Anthony", "A."]
+    url: https://profiles.stanford.edu/anthony-norcia/
+
+"Hiranaka":
+  - firstname: ["Ayano", "A."]
+    url: https://misoshiruseijin.github.io/
+
+"Jia":
+  - firstname: ["Wenqi", "W."]
+    url: https://vjwq.github.io/
+
+"Liu":
+  - firstname: ["Miao", "M."]
+    url: https://aptx4869lm.github.io/
+
+"Jiang":
+  - firstname: ["Hao", "H."]
+    url: https://www.hao-jiang.net/
+
+"Ananthabhotla":
+  - firstname: ["Ishwarya", "I."]
+    url: https://www.ishwarya.me/
+
+"Rehg":
+  - firstname: ["James", "J.", "James M.", "J. M.", "James M"]
+    url: https://rehg.org/
+
+"Ithapu":
+  - firstname: ["Vamsi", "Vamsi Krishna", "V. K.", "Vamsi K"]
+    url: https://www.vamsiithapu.com/
+
+"Jin":
+  - firstname: ["Xutong", "X."]
+    url: https://hellojxt.github.io/
+
+"Chowdhury":
+  - firstname: ["Sanjoy", "S."]
+    url: https://schowdhury671.github.io/
+
+"Nag":
+  - firstname: ["Sayan", "S."]
+    url: https://sayannag.github.io/
+
+"Dasgupta":
+  - firstname: ["Subhrajyoti", "S."]
+    url: https://subhrajyotidasgupta.github.io/
+
+"Elhoseiny":
+  - firstname: ["Mohamed", "M.", "M. H."]
+    url: https://www.mohamed-elhoseiny.com/
+
+"Manocha":
+  - firstname: ["Dinesh", "D."]
+    url: https://www.cs.umd.edu/people/dmanocha
+
+"Yun":
+  - firstname: ["Heeseung", "H."]
+    url: https://hs-yn.github.io/
+
+"Kumar":
+  - firstname: ["Anurag", "A."]
+    url: https://anuragkr90.github.io/
+
+"Kim":
+  - firstname: ["Gunhee", "K."]
+    url: https://vision.snu.ac.kr/gunhee/
