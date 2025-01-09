@@ -7,7 +7,7 @@ nav: false
 nav_order: 6
 ---
 
-Thanks for your interest in joining the UMD Multisensory Machine Intelligence Group and working with me! Due to the high volume of email inquiries I receive, I apologize in advance if I am unable to respond to each one individually. Please review the following information before reaching out.
+Thanks for your interest in joining the UMD Multisensory Machine Intelligence Lab and working with me! Due to the high volume of email inquiries I receive, I apologize in advance if I am unable to respond to each one individually. Please review the following information before reaching out.
 
 - ***Prospective Ph.D. students:*** I am actively recruiting Ph.D. students to start in Fall 2025. If you are interested in working with me, please [apply here](https://www.cs.umd.edu/grad/catalog) and list me as a potential advisor in your application.
 
