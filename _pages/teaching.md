@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-- CMSC848M: Multimodal Computer Vision, Spring 2025
+- [CMSC848M: Multimodal Computer Vision, Spring 2025](https://www.cs.umd.edu/class/spring2025/cmsc848m/)
 
 - [CS231N: Deep Learning for Computer Vision, Spring 2023](http://cs231n.stanford.edu/) (Co-Instructing with [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li) and [Yunzhu Li](https://yunzhuli.github.io/))
 
