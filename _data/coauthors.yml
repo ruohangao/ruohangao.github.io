@@ -133,6 +133,9 @@
   - firstname: ["Huanle"]
     url: https://www.fst.um.edu.mo/personal/huanlexu/
 
+  - firstname: ["Chenliang", "C."]
+    url: https://www.cs.rochester.edu/~cxu22/
+
 "Rau":
   - firstname: ["Mark", "M."]
     url: https://ccrma.stanford.edu/~mrau/
@@ -277,3 +280,16 @@
 "Kim":
   - firstname: ["Gunhee", "K."]
     url: https://vision.snu.ac.kr/gunhee/
+
+"Huang":
+  - firstname: ["Chao", "C."]
+    url: https://wikichao.github.io/
+
+"Parekh":
+  - firstname: ["Sanjeel", "S."]
+    url: https://sanjeelparekh.github.io/
+
+
+"Shlizerman":
+  - firstname: ["Eli", "E."]
+    url: https://faculty.washington.edu/shlizee/
