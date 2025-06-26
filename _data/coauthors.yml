@@ -106,6 +106,9 @@
   - firstname: ["Hong-Xing", "H.", "H.-X.", "H. X."]
     url: https://kovenyu.com/
 
+  - firstname: ["Kelin", "K."]
+    url: https://colinyu1.github.io/
+
 "Guo":
   - firstname: ["Michelle", "M."]
     url: https://shellguo.com/
@@ -113,10 +116,6 @@
 "Calamia":
   - firstname: ["Paul", "P."]
     url: https://scholar.google.com/citations?hl=en&user=S_S6SZAAAAAJ
-
-"Yu":
-  - firstname: ["Hong-Xing", "H.", "H.-X.", "H. X."]
-    url: https://kovenyu.com/
 
 "Guo":
   - firstname: ["Michelle", "M."]
@@ -209,6 +208,9 @@
   - firstname: ["Ruohan", "R."]
     url: https://ai.stanford.edu/~zharu/
 
+  - firstname: ["Sheng", "S."]
+    url: https://sheng-eatamath.github.io/
+
 "Hwang":
   - firstname: ["Minjune", "M."]
     url: https://mj-hwang.github.io/
@@ -291,11 +293,36 @@
   - firstname: ["Chao", "C."]
     url: https://wikichao.github.io/
 
+  - firstname: ["Furong", "F."]
+    url: https://furong-huang.com/
+
+  - firstname: ["Heng", "H."]
+    url: https://www.cs.umd.edu/~heng/
+
 "Parekh":
   - firstname: ["Sanjeel", "S."]
     url: https://sanjeelparekh.github.io/
 
-
 "Shlizerman":
   - firstname: ["Eli", "E."]
     url: https://faculty.washington.edu/shlizee/
+
+"Tokekar":
+  - firstname: ["Pratap", "P."]
+    url: https://tokekar.com/
+
+"Nagarajan":
+  - firstname: ["Tushar", "T."]
+    url: https://tushar-n.github.io/
+
+"Khan":
+  - firstname: ["Salman", "S."]
+    url: https://salman-h-khan.github.io/
+
+"Anand":
+  - firstname: ["Nishit", "N."]
+    url: https://nishitanand.github.io/
+
+"Gani":
+  - firstname: ["Hanan", "H."]
+    url: https://hananshafi.github.io/
