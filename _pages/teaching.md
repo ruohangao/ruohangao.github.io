@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-- CMSC498K: Introduction to Multimodal Deep Learning, Fall 2025
+- [CMSC498K: Introduction to Multimodal Deep Learning, Fall 2025](https://www.cs.umd.edu/class/fall2025/cmsc498k/)
 
 - [CMSC848M: Multimodal Computer Vision, Spring 2025](https://www.cs.umd.edu/class/spring2025/cmsc848m/)
 
