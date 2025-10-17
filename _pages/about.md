@@ -6,7 +6,8 @@ subtitle: |+
   <b>Assistant Professor</b> <br>
   <a href="https://www.cs.umd.edu/">Department of Computer Science</a>, <a href="https://umd.edu/">University of Maryland, College Park</a> <br><br>
   Office: IRB-4248<br>
-  Email: rhgao[AT]umd.edu
+  Email: rhgao[AT]umd.edu<br><br>
+  <a href="https://www.cs.umd.edu/people/rhgao">UMD Profile</a> / <a href="https://scholar.google.com/citations?user=i02oEgMAAAAJ">Google Scholar</a> / <a href="./bio">Short Bio</a>
 
 profile:
   align: left
