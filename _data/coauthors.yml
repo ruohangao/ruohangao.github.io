@@ -36,6 +36,9 @@
   - firstname: ["Jun", "J."]
     url: https://junchen14.github.io/
 
+  - firstname: ["Xiyi", "X."]
+    url: https://xiyichen.github.io/
+
 "Al-Halah":
   - firstname: ["Ziad", "Z."]
     url: https://users.cs.utah.edu/~ziad/
@@ -333,3 +336,11 @@
 "Duan":
   - firstname: ["Zhiyao", "Z."]
     url: https://hajim.rochester.edu/ece/sites/zduan/
+
+"Lin":
+  - firstname: ["Ming", "M.", "M. C.", "Ming C."]
+    url: https://www.cs.umd.edu/~lin/
+
+"Selvakumar":
+  - firstname: ["Ramaneswaran", "R."]
+    url: https://ramaneswaran.github.io/
