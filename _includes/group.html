@@ -1,0 +1,22 @@
+          <div class="group">
+            {%- for category in site.data.group %}
+            <div class="group-category">
+              {%- if category.title %}<h4>{{ category.title }}</h4>{% endif %}
+              <div class="group-grid">
+                {%- for m in category.members %}
+                <div class="group-member">
+                  {%- if m.url %}<a href="{{ m.url }}">{% endif -%}
+                  {%- if m.image %}
+                  <img class="group-photo" src="{{ m.image | prepend: '/assets/img/group/' | relative_url }}" alt="{{ m.name }}">
+                  {%- else %}
+                  <div class="group-photo group-photo-placeholder"></div>
+                  {%- endif %}
+                  <div class="group-name">{{ m.name }}</div>
+                  {%- if m.url %}</a>{% endif -%}
+                  {%- if m.note %}<div class="group-note">{{ m.note }}</div>{% endif %}
+                </div>
+                {%- endfor %}
+              </div>
+            </div>
+            {%- endfor %}
+          </div>
