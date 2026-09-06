@@ -1,0 +1,25 @@
+# Lab members shown on the homepage as a grid of circular photos with names underneath.
+#
+# Each category has a `title` and a list of `members`. For each member:
+#   name:  displayed under the photo (required)
+#   image: file name inside assets/img/group/ (optional; a grey placeholder circle is shown if missing)
+#   url:   link for the photo and name (optional)
+#   note:  small grey text under the name, e.g. "co-advised with X" (optional)
+#
+# Photos look best as square images (e.g. 400x400 px); they are cropped to a circle automatically.
+# Add a new category (e.g. "MS students:", "Undergraduate students:", "Alumni:") by copying a block.
+
+- title: "PhD students:"
+  members:
+    - name: Kelin Yu
+      image: Kelin_Yu.jpg
+      url: https://colinyu1.github.io/
+    - name: Derong Jin
+      image: Derong_Jin.jpg
+      url: https://humathe.github.io/
+    - name: Zihao Wei
+      image: Zihao_Wei.jpg
+      url: https://zi-hao-wei.github.io/
+    - name: Wei Liu
+      image: Wei_Liu.jpg
+      url: https://liuwei283.github.io/
