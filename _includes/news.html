@@ -1,18 +1,9 @@
           <div class="news">
-            {%- comment -%}
-              News items live in _data/news/<year>.yml, one list per year.
-              Each entry: `date: YYYY-MM-DD` and `text: ...` (Markdown allowed).
-              All years are merged and sorted newest-first.
-            {%- endcomment -%}
-            {%- assign news = "" | split: "" -%}
-            {%- for year in site.data.news -%}
-              {%- assign news = news | concat: year[1] -%}
-            {%- endfor -%}
-            {%- assign news = news | sort: "date" | reverse -%}
-            {%- assign news_size = news | size -%}
-            {% if news_size > 0 -%}
-            <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: {{ site.announcements.max_height | default: "12rem" }}"{% endif %}>
+            {% if site.news != blank -%}
+            {%- assign news_size = site.news | size -%}
+            <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
               <table class="table table-sm table-borderless">
+              {%- assign news = site.news | reverse -%}
               {% if include.limit and site.announcements.limit %}
               {% assign news_limit = site.announcements.limit %}
               {% else %}
@@ -20,8 +11,14 @@
               {% endif %}
               {% for item in news limit: news_limit %}
                 <tr>
-                  <th scope="row" class="news-date">[{{ item.date | date: "%b %Y" }}]</th>
-                  <td>{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | emojify }}</td>
+                  <th scope="row"><li></th>
+                  <td>
+                    {% if item.inline -%}
+                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                    {%- else -%}
+                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    {%- endif %}
+                  </td>
                 </tr>
               {%- endfor %}
               </table>

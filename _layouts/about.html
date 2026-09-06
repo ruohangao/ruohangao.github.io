@@ -56,12 +56,6 @@ layout: default
             {%- include news.html limit=true %}
           {%- endif %}
 
-          <!-- Research group -->
-          {% if page.group -%}
-            <h2>Multisensory Machine Intelligence Lab</h2>
-            {%- include group.html %}
-          {%- endif %}
-
           <!-- Latest posts -->
           {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
